@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Delighted with coding since 2023 <br>I'm currently learning JS, CSS and Html <br>My goal is to break into the tech world and get my first professional opportunity after being a finance bro for 3 years</p>
+<p align="left">Delighted with coding since 2023 <br>I'm currently learning JS, CSS and Html <br>My goal is to break into the tech world and get my first professional opportunity</p>
 
 ###
 
